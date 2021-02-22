@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**kimburgess/kimburgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪
+▪                                                                             ▪
+▪   Hello,                                                                    ▪
+▪                                                                             ▪
+▪   You appear to have wandered into my corner of this digital bazaar.        ▪
+▪                                                                             ▪
+▪   This is mainly home to items I am building with @PlaceOS.                 ▪
+▪                                                                             ▪
+▪   For those prepared to wander outside, you'll find a selection of other    ▪
+▪   projects at https://git.sr.ht/~kb/.                                       ▪
+▪                                                                             ▪
+▪   Enjoy your stay.                                                          ▪
+▪                                                                             ▪
+▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪
+```
